@@ -1,0 +1,44 @@
+body {
+  font-family: 'Alright Sans', sans-serif;
+  width: 755px;
+  margin:10px auto;
+}
+
+h1 {
+font-family: Balto, sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  color: rgb(76, 78, 77);
+  width: 972px;
+
+}
+
+span {
+font-family: Harriet, serif;
+  font-size: 15px;
+  font-style: italic;
+
+}
+
+p {
+  color: rgb(76, 78, 77);
+  font-family: 'Alright Sans', sans-serif;
+  font-size: 17.25px;
+  font-weight: normal;
+}
+
+img {
+	style="margin: 20px 20px"
+
+}
+
+blockquote {
+  border-left-color: rgb(139, 142, 141);
+  border-left-style: solid;
+  font-size: 15px;
+  margin-left: 15px;
+  padding-left: 15px;
+  text-rendering: optimizelegibility;
+  width: 740px;
+
+}
